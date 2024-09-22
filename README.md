@@ -1,6 +1,3 @@
-テストです。
-
-
 # windows-bat-toolbox
 
 Brief description of your project.
